@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Engineer
 - 🌱 I’m currently learning Big Data & Machine Learning at Duy Tan University 
 - 📫 How to reach me: contact me email work.phanquocdat@gmail.com
-- 😄 Pronouns: fan work dark
 - ⚡ Fun fact: i 'm not a robot
 
 <!---
